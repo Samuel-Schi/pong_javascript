@@ -7,7 +7,7 @@ Projeto final desenvolvido e ofericido pela curso Lógica de programação: come
 <br>
 
 <p align="center">
-  <img alt="pong" src="" width="100%">
+  <img alt="pong" src="aula5.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
