@@ -24,4 +24,4 @@ Jogo pong feito como projeto final do curso Lógica de programação: comece em 
 
 ---
 
-Feito com ♥ by Aluyra 
+Feito com ♥ by Alura 
